@@ -49,7 +49,7 @@
   .click-target {
     display: block;
     position: absolute;
-    background: red;
+    background: hsl(0, 0%, 50%);
     border-radius: 30px;
   }
 </style>
