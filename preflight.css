@@ -593,7 +593,7 @@ video {
 
 /*Additional resets*/
 button {
-
+  outline: 0;
 }
 
 /*# sourceMappingURL=base.css.map */
